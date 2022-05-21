@@ -10,7 +10,7 @@ Leaning game development using C++ and Unreal Engine 5 by following tutorials an
 <br>
 
 ## Projects built with C++ & raylib Library
-- Dappe Dasher
+- Dapper Dasher
 <a href="https://github.com/TechnoOakGames/Dapper_Dasher">
  <img alt="Marble Run" width="25%" height="25%"                            src="https://raw.githubusercontent.com/TechnoOakGames/Dapper_Dasher/main/Gameplay-Screenshot.png" />
 </a>
