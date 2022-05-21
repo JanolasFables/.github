@@ -1,11 +1,15 @@
-## Hi there 👋
+# Techno Oak Games
+Leaning game development using C++ and Unreal Engine 5 by following tutorials and creating projects
 
+## Projects built in UE5 using Blueprints
 
+<br>
+
+## Projects built with C++ & raylib Library
+
+<br>
 
 <!--
-
-<img alt="TopLanguages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechnoOakGames
-&layout=compact"/>
 
 **Here are some ideas to get you started:**
 
