@@ -18,7 +18,7 @@ Leaning game development using C++ and Unreal Engine 5 by following tutorials an
   <a href="https://github.com/TechnoOakGames/Marble_Run">
   <img alt="Marble Run" width="20%" height="20%"      src="https://raw.githubusercontent.com/TechnoOakGames/Marble_Run/main/Marble_Run_Gameplay_Screenshot.png" />
   </a>
-  <figcaption>Marble Run 2</figcaption>
+  <figcaption align="left">Marble Run 2</figcaption>
 </figure>
 
 <br>
