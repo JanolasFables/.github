@@ -1,9 +1,11 @@
 ## Hi there 👋
 
-<img alt="TopLanguages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechnoOakGames
-&layout=compact"/>
+
 
 <!--
+
+<img alt="TopLanguages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechnoOakGames
+&layout=compact"/>
 
 **Here are some ideas to get you started:**
 
