@@ -2,24 +2,18 @@
 Leaning game development using C++ and Unreal Engine 5 by following tutorials and creating projects
 
 ## Projects built in UE5 using Blueprints
-
+- Marble Run
+<a href="https://github.com/TechnoOakGames/Marble_Run">
+ <img alt="Marble Run" width="25%" height="25%"                            src="https://raw.githubusercontent.com/TechnoOakGames/Marble_Run/main/Marble_Run_Gameplay_Screenshot.png" />
+</a>
+  
 <br>
 
 ## Projects built with C++ & raylib Library
-
-<figure>
-  <a href="https://github.com/TechnoOakGames/Marble_Run">
-  <img alt="Marble Run" width="20%" height="20%"      src="https://raw.githubusercontent.com/TechnoOakGames/Marble_Run/main/Marble_Run_Gameplay_Screenshot.png" />
-  </a>
-  <figcaption>Marble Run</figcaption>
-</figure>
-
-<figure>
-  <a href="https://github.com/TechnoOakGames/Marble_Run">
-  <img alt="Marble Run" width="20%" height="20%"      src="https://raw.githubusercontent.com/TechnoOakGames/Marble_Run/main/Marble_Run_Gameplay_Screenshot.png" />
-  </a>
-  <figcaption align="left">Marble Run 2</figcaption>
-</figure>
+- Dappe Dasher
+<a href="https://github.com/TechnoOakGames/Dapper_Dasher">
+ <img alt="Marble Run" width="25%" height="25%"                            src="https://raw.githubusercontent.com/TechnoOakGames/Dapper_Dasher/main/Gameplay-Screenshot.png" />
+</a>
 
 <br>
 
