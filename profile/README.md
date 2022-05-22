@@ -9,7 +9,7 @@ Leaning game development using C++ and Unreal Engine 5 by following tutorials an
 ## Projects built in UE5 using Blueprints
 - Marble Run
 <a href="https://github.com/TechnoOakGames/Marble_Run">
- <img alt="Marble Run" width="25%" height="25%"                            src="https://raw.githubusercontent.com/TechnoOakGames/Marble_Run/main/Marble_Run_Gameplay_Screenshot.png" />
+ <img alt="Marble Run" width="25%" height="25%" src="https://raw.githubusercontent.com/TechnoOakGames/Marble_Run/main/Marble_Run_Gameplay_Screenshot.png" />
 </a>
   
 <br>
