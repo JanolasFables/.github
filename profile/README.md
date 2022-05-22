@@ -1,20 +1,21 @@
 # Techno Oak Games
-Leaning game development using C++ and Unreal Engine 5 by following tutorials and creating projects
+Learning game development using C++ and Unreal Engine 5 by following tutorials and creating projects.
 
 ## Projects built in UE5 using C++ & Blueprints
-- 
+These games were created in Unreal Engine 5 using primarily C++ with some Blueprints. 
 
 <br>
 
 ## Projects built in UE5 using Blueprints
-- Marble Run
+These games were created in Unreal Engine 5 using only Blueprints.
 <a href="https://github.com/TechnoOakGames/Marble_Run">
- <img alt="Marble Run" width="25%" height="25%" src="https://raw.githubusercontent.com/TechnoOakGames/Marble_Run/main/Marble_Run_Gameplay_Screenshot.png" />
+ <img alt="Marble Run" width="25%" height="25%" src="https://raw.githubusercontent.com/TechnoOakGames/Marble_Run/main/Marble_Run_Gameplay_Screenshot_Captioned.png" />
 </a>
   
 <br>
 
 ## Projects built with C++ & raylib Library
+These games were created using only C++ with the raylib Library. 
 <a href="https://github.com/TechnoOakGames/Dapper_Dasher">
  <img alt="Dapper Dasher" width="25%" height="25%" src="https://raw.githubusercontent.com/TechnoOakGames/Dapper_Dasher/main/Gameplay-Screenshot_Captioned.png" />
 </a>
