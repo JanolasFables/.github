@@ -1,5 +1,6 @@
 # Techno Oak Games
 Learning game development using C++ and Unreal Engine 5 by following tutorials and creating projects.
+More info coming later.
 
 ## Projects built in UE5 using C++ & Blueprints
 
