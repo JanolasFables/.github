@@ -23,6 +23,11 @@ More info coming later.
 
 <br>
 
+## Courses Completed
+- C++ Fundamentals: Game Programming For Beginners
+
+<br>
+
 <!--
 
 **Here are some ideas to get you started:**
