@@ -15,6 +15,9 @@ More info coming later.
 
 ## Projects built with C++ & raylib Library
 <a href="https://github.com/TechnoOakGames/Dapper_Dasher">
+ <img alt="Dapper Dasher" width="25%" height="25%" src="https://raw.githubusercontent.com/TechnoOakGames/Classic_Clash/main/Gameplay-Screenshot_Captioned.png" />
+</a>
+<a href="https://github.com/TechnoOakGames/Dapper_Dasher">
  <img alt="Dapper Dasher" width="25%" height="25%" src="https://raw.githubusercontent.com/TechnoOakGames/Dapper_Dasher/main/Gameplay-Screenshot_Captioned.png" />
 </a>
 
