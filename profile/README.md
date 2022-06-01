@@ -1,3 +1,7 @@
+ <img alt="Profile Banner" src="https://github.com/JanolasFables/.github/blob/0bd057fb6bd37184e3e4c35ef8f4c62ab51b6eb4/Banner.png" />
+
+---
+
 # Janola's Fables
 Learning game development using C++ and Unreal Engine 5 by following tutorials and creating projects.
 More info coming later.
