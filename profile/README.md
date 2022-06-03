@@ -31,6 +31,7 @@ More info coming later.
 <br>
 
 ## Courses Completed
+- GameDev.tv : Unreal Engine Blueprint Game Developer Online Course
 - GameDev.tv : C++ Fundamentals: Game Programming For Beginners
 
 <br>
